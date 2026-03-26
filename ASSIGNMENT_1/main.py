@@ -74,3 +74,5 @@ def search_product(name: str):
         "results": result,
         "total": len(result)
     }
+
+
